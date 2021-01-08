@@ -1,6 +1,8 @@
 # covidDashboard2020
 
 A data analysis and vizualization for covid19 cases
+
+
 SQL master table uploaded from the excel file downloaded from 
 https://healthdata.gov/dataset/united-states-covid-19-cases-and-deaths-state-over-time
 
